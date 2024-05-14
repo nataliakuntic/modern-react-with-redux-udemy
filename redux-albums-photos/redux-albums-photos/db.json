@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jerry Champlin",
+      "id": 5
+    },
+    {
+      "name": "Christopher Rosenbaum",
+      "id": 6
+    },
+    {
+      "name": "Yvonne Larson",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Incredible Frozen Car",
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "title": "Modern Fresh Computer",
+      "id": 17
+    },
+    {
+      "userId": 7,
+      "title": "Sleek Metal Towels",
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Soft Pants",
+      "id": 24
+    },
+    {
+      "userId": 6,
+      "title": "Refined Wooden Soap",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Granite Keyboard",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/640/480?lock=4970873796689920",
+      "id": 2
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/640/480?lock=2565732936187904",
+      "id": 3
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/640/480?lock=6772599220600832",
+      "id": 4
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480?lock=3172960319832064",
+      "id": 5
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480?lock=5109395522322432",
+      "id": 7
+    }
+  ]
+}
